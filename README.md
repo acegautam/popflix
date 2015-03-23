@@ -1,2 +1,2 @@
 # popflix
-Angular-based movie gallery sample
+Angular-based movie gallery sample.
