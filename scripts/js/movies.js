@@ -3,6 +3,7 @@
 			movies: 'http://localhost:3030/movies'
 		},
 		allMovies = [],
+		dummy = '',
 		bigFlixMovies = angular.module('bigFlix-movies', [])
 			.service('dataService', function ($http, $log){
 				this.getMovies = function () {
